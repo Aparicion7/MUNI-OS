@@ -66,10 +66,8 @@ Some of the software added:
 
 
 # Users: live
-
 # Password: nova
-
 # Root password: nova
 
 
-MUNI OS: Andromeda, an extended, self-replicant, easy to deploy Debian version with useful additions for every user.
+MUNI-OS: Andromeda, an extended, self-replicant, easy to deploy Debian version with useful additions for every user.
