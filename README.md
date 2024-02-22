@@ -3,8 +3,10 @@ An extended Debian version with some useful additions for every user.
 
 Hello there, welcome to the home of MUNI OS.
 MUNI OS "Andromeda" is a Debian Linux with some software additions that are useful for every user, It was made based on Debian 12 "Bookworm" using penguins-eggs software (https://github.com/pieroproietti/penguins-eggs/) to remaster it and add everything.
+
 Penguins-eggs software is conserved trough installations so you can add your modifications too for make it your own and repicate your system at will, or use it to make a backup of your custom system.
 Some of the software added:
+
 
 ·Linux Xanmod Kernel (for the latest and greatest), the kernel supplied by Debian is preserved for allowing SecureBoot installations
 
@@ -62,8 +64,12 @@ Some of the software added:
 
 ·Additional packages and libraries for all the mentioned software
 
+
 Users: live
+
 Password: nova
+
 Root password: nova
+
 
 An extended, self-replicant, easy to deploy Debian version with useful additions for every user.
