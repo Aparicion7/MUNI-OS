@@ -12,7 +12,7 @@ Some of the software added:
 
 ·ClamAV Antivirus Software (for extended security), is integraded with "Linux Malware Detect" (LMD) and Nautilus software, and also installed rkhunter and chkrootkit for extended rootkit detection and protection.
 
-·Latest Libreoffice release for documents and Gedit for advance text edition
+·Latest Libreoffice release for documents and Gedit for advanced text edition
 
 ·Latest Firefox stable from its repo, instead fo ESR version supplied with debian
 
@@ -40,7 +40,7 @@ Some of the software added:
 
 ·scrcpy and Gsconect for mobile devices integration
 
-·Timeshift, for backup and restore system support
+·Timeshift, for backup and restore support for the system
 
 ·Gparted whith additional packages for the ultimate partition managing, and also installed partimage for additional partition backup/imaging support
 
