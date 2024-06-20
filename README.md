@@ -78,7 +78,7 @@ MUNI OS "Jammy" installation process has two phases:
 ·Boot into live session and install with GUI installer Calamares as normally, with the detail to create and user called: "oem", with a password you can easily remember for the next phase of the installation
 
 ·Reboot, now you are booted and enter a session of your system with the newly created "oem" user, you can make more customizations to your system in this session if you want; and when you finish you have to proceed to navigate the applications and open: 
- "Prepare for shipping to end user" one, it will ask for the password you setup for the user "oem", it will proceed to delete the "oem" user and its data, and finally ask you to reboot.
+ "Prepare for shipping to end user" one, it will ask for the password you configure for the user "oem", it will proceed to delete the "oem" user and its data, and finally ask you to reboot.
 
 After that you will be booted in a "First User set-up session" of Gnome-Shell where you can configure a personal or final user thats going to use the system.
 
