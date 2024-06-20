@@ -1,40 +1,42 @@
-# MUNI-OS: Andromeda Edition
-An extended Debian version with some useful additions for every user.
+# MUNI-OS: Jammy Edition
+An extended Ubuntu version with some useful additions for every user.
 
 Hello there, welcome to the home of MUNI OS.
-MUNI OS "Andromeda" is a Debian Linux with some software additions that are useful for every user, It was made based on Debian 12 "Bookworm" using penguins-eggs software (https://github.com/pieroproietti/penguins-eggs/) to remaster it and add everything.
+MUNI OS "Jammy" is a Ubuntu Linux with some software additions that are useful for every user, It was made based on Ubuntu "Jammy" using penguins-eggs software (https://github.com/pieroproietti/penguins-eggs/) to remaster it and add everything.
 
 Penguins-eggs software is conserved trough installations so you can add your modifications too for make it your own and repicate your system at will, or use it to make a backup of your custom system.
 Some of the software added:
 
 
-·Linux Xanmod Kernel (for the latest and greatest), the kernel supplied by Debian is preserved for allowing SecureBoot installations
+·Linux Xanmod Kernel (for the latest and greatest), the kernel supplied by Ubuntu is preserved for allowing SecureBoot installations and better compatibility with hardware.
 
-·ClamAV Antivirus Software (for extended security), is integraded with "Linux Malware Detect" (LMD) and Nautilus software, and also installed rkhunter and chkrootkit for extended rootkit detection and protection.
+·ClamAV Antivirus Software (for extended security), is integraded with "Linux Malware Detect" (LMD) and Nautilus file manager, and also installed rkhunter and chkrootkit for extended rootkit detection and protection.
 
-·Latest Libreoffice release for documents and Gedit for advanced text edition
+·Latest Libreoffice release for documents and Gedit for advanced text edition.
 
-·Latest Firefox stable from its repo, instead fo ESR version supplied with debian
+·Latest Firefox stable from its repo, instead of the Snap package version.
 
-·Deb-multimedia repo enabled for every codec and multimedia support
+·"ubuntu-restricted" addons and extras added for every codec and multimedia support.
 
-·deb-get package manager, for extended software repository support
+·deb-get package manager, for extended software repository support.
 
-·Snap package and Flatpak package support added (With flathub enabled)
+·Snap package and Flatpak package support added (With flathub enabled).
 
-·Pacstall installed, for even more software repository support
+·Pacstall installed, for even more software repository support.
 
-·quickemu, one of the best software for work with VMs, and Virtual Machine Manager for complete VM managing
+·quickemu, one of the best software for work with VMs, and Virtual Machine Manager for complete VM managing.
 
-·distrobox (trough pacstall), for the absolute software support trough easily managed containers
+·distrobox (trough pacstall, for the latest version), for the absolute software support trough easily managed containers.
 
-·Eog (Eye of Gnome) and Shotwell for image view and gallery, GIMP for professional image editing
+·Eog (Eye of Gnome) and Shotwell for image view and gallery, GIMP for professional image editing.
 
-·Brasero, .iso file managing and disc burning suite
+·Brasero, .iso file managing and disc burning suite.
 
-·Spotify from its repository
+·Spotify from its repository.
 
 ·Whatsapp For Linux, Rustdesk (one of the best remote desktop software), YouTube Music, Discord and Zoom (trough deb-get)
+
+·Teamviewer from its package, for even broader Remote Desktop support and assist.
 
 ·Onedriver and MegaSync for cloud drive and sync support
 
@@ -65,8 +67,8 @@ Some of the software added:
 ·Additional packages and libraries for all the mentioned software
 
 
-# Users: live
-# Password: nova
+# Users: oem
+# Password: oem
 # Root password: nova
 
 
