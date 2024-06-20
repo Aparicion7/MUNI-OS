@@ -69,7 +69,7 @@ Some of the software added:
 
 # Users: oem
 # Password: oem
-# Root password: nova
+# Root password: oem
 
 
-MUNI-OS: Andromeda, an extended, self-replicant, easy to deploy Debian version with useful additions for every user.
+MUNI-OS: Jammy, an extended, self-replicant, easy to deploy Ubuntu version with useful additions for every user.
